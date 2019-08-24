@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1425580105 source:c:\erikprogram\wall_blink\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
